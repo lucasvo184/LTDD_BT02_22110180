@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_header">#9C27B0</color>
+    <color name="cyan_block">#00BCD4</color>
+    <color name="magenta_block">#E91E63</color>
+    <color name="red_block">#F44336</color>
+    <color name="green_block">#4CAF50</color>
+    <color name="dark_blue_block">#2196F3</color>
+    <color name="light_blue_block">#03A9F4</color>
+    <color name="yellow_block">#FFEB3B</color>
+    <color name="orange_text">#FF9800</color>
+</resources>
